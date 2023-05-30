@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Who saved the life of Courier Six in New Vegas?
+  answers:
+  - Doc Mitchell
+  - Doctor Usanagi
+  - Julie Farkas
+  - Mr. New Vegas
+  correctAnswerIndex: 0

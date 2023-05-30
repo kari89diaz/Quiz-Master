@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c5f911d93f6e924418ffe41e9e6a627b, type: 3}
-  m_Name: Question 3
+  m_Name: Question 7
   m_EditorClassIdentifier: 
-  question: How is referred the protagonist in Fallout 2?
+  question: Who was Julie Farkas?
   answers:
-  - The Lone Survivor
-  - The Sole Survivor
-  - The Chosen Child
-  - The Chosen One
+  - Regional administrator of the Followers
+  - Doctor
+  - A punk styled badass
+  - All of the above
   correctAnswerIndex: 3

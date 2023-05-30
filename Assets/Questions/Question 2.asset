@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5f911d93f6e924418ffe41e9e6a627b, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Which was the name of the ghoul who become a tree?
+  question: Which was the name of the ghoul who had a tree in his head?
+  answers:
+  - Gerald
+  - Harold
+  - Bob
+  - Herbert
+  correctAnswerIndex: 1

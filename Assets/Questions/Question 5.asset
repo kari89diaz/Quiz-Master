@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Who said the quote "We can't expect God to do all the work."?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Joshua Graham
+  - Brother Thomas
+  - Pastor Clements
+  - The Master
+  correctAnswerIndex: 0

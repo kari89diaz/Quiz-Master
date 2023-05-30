@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c5f911d93f6e924418ffe41e9e6a627b, type: 3}
-  m_Name: Question 3
+  m_Name: Question 6
   m_EditorClassIdentifier: 
-  question: How is referred the protagonist in Fallout 2?
+  question: What had happened with Caesar?
   answers:
-  - The Lone Survivor
-  - The Sole Survivor
-  - The Chosen Child
-  - The Chosen One
-  correctAnswerIndex: 3
+  - He was a psychopath
+  - He had a stroke
+  - He had a brain tumor
+  - He had a bad sense of fashion
+  correctAnswerIndex: 2
